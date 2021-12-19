@@ -1,15 +1,13 @@
 # LOCKHEED-PLATFORM
-**NOTE**
-*Not to be confused with the Aerospace-Defense Company [Lockheedmartin](https://en.wikipedia.org/wiki/Lockheed_Martin)*
+**NOTE**:   Not to be confused with the Aerospace-Defense Company [Lockheedmartin](https://en.wikipedia.org/wiki/Lockheed_Martin)
 
------
+---
 
-The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments.
+The LOCKHEED-PLATFORM -better known as 
+LP - is a  metasploit and beef-xss -like "platform",
+designed for advanced Cyber Assessments.
 
------
-
-
------
+---
 ### Projects that will be included:
 
 - https://github.com/loneicewolf/DUQU
