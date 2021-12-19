@@ -9,6 +9,23 @@ The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like 
 -----
 
 
+-----
+### Projects that will be included:
+
+- https://github.com/loneicewolf/DUQU
+- https://github.com/loneicewolf/Gauss-Src
+- https://github.com/loneicewolf/gauss-encryptedpayload_decoded
+- https://github.com/loneicewolf/Stuxnet-Source
+- https://github.com/loneicewolf/flame-sourcecode
+- https://github.com/loneicewolf/fanny.bmp
+- https://github.com/loneicewolf/Agent.btz
+- https://github.com/loneicewolf/Cryptography
+- https://github.com/loneicewolf/SSD_HDD_BD
+
+
+-----
+
+
 
 ## FAQ
 
