@@ -70,6 +70,8 @@ As admin (which - might (actually) **not be enough in some scenarios**) if this 
 
 
 ## Protocols
+- SMB
+
 
 ---
 
@@ -85,12 +87,42 @@ References:
 - https://docs.microsoft.com/en-us/previous-versions/windows/
 - https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc778351(v=ws.10)?redirectedfrom=MSDN
 - https://www.microsoft.com/en-us/software-download/windows11
+- https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc758523(v=ws.10)
+- https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/dd582583(v=ws.10)
 - https://ss64.com/nt/
 - https://ss64.com/links/windows.html#kits
--- https://ss64.com/nt/browstat.html
+- https://ss64.com/nt/browstat.html
 - https://en.wikipedia.org/
--- https://en.wikipedia.org/wiki/Browstat
--- https://en.wikipedia.org/wiki/Browser_service
--- https://en.wikipedia.org/wiki/My_Network_Places
--- https://en.wikipedia.org/wiki/Active_Directory
--- https://en.wikipedia.org/wiki/Windows_Explorer
+- https://en.wikipedia.org/wiki/Browstat
+- https://en.wikipedia.org/wiki/Browser_service
+- https://en.wikipedia.org/wiki/My_Network_Places
+- https://en.wikipedia.org/wiki/Active_Directory
+- https://en.wikipedia.org/wiki/Windows_Explorer
+- https://en.wikipedia.org/wiki/Special_folder
+- https://en.wikipedia.org/wiki/Domain_controller
+
+
+# Crypto
+- https://en.wikipedia.org/wiki/Cryptographic_Application_Programming_Interface
+- https://en.wikipedia.org/wiki/NIST_SP_800-90A
+- https://en.wikipedia.org/wiki/Dual_EC_DRBG
+- https://en.wikipedia.org/wiki/CTR_DRBG
+- https://en.wikipedia.org/wiki/Triple_DES
+- https://en.wikipedia.org/wiki/LAN_Manager
+
+
+# Lists
+- https://en.wikipedia.org/wiki/List_of_LDAP_software
+- 
+
+
+# Protocols/ + -Like functions
+**By the time writing this; "This article has multiple issues."**
+- https://en.wikipedia.org/wiki/Server_Message_Block
+- https://en.wikipedia.org/wiki/LAN_Server
+- https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
+- https://en.wikipedia.org/wiki/Directory_service
+- 
+
+
+
