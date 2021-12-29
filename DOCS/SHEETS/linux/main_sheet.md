@@ -5,14 +5,8 @@ KogWheel Feature 1
 ```
 #!/usr/bin/env bash
 
-## References
-# https://stackoverflow.com/a/10383546/14346786
-# https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown.shtml
-# https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown-checker.sh
-# https://security.web.cern.ch/advisories/spectre-meltdown/spectre-cpu-microcode-checker.sh
-
-
-# XXX # Original pstatus
+### Original pstatus ###
+#############################################
 # print status function
 # pstatus() {
 # 	  case "$1" in
@@ -26,7 +20,7 @@ KogWheel Feature 1
 # 	  [ -n "$3" ] && /bin/echo -n " ($3)"
 # 	  /bin/echo
 # }
-
+#############################################
 
 ABC() {
   for i in {"abc","def","","jkl"}; do
@@ -49,3 +43,10 @@ ABC() {
 # Export func. ABC as a function (-f)
 }; export -f ABC
 ```
+
+
+## References
+# [(bash)pref. way of shebang? - At StackOverflow](https://stackoverflow.com/a/10383546/14346786)
+# [Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown.shtml)
+# [Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown-checker.sh)
+# [Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-cpu-microcode-checker.sh)
