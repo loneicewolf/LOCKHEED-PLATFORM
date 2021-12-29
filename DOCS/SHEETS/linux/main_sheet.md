@@ -47,6 +47,6 @@ ABC() {
 
 ## References
 - [(bash)pref. way of shebang? - At StackOverflow](https://stackoverflow.com/a/10383546/14346786)
-- [Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown.shtml)
-- [Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown-checker.sh)
-- [Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-cpu-microcode-checker.sh)
+- [(spec.meltdown sh) Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown.shtml)
+- [(spec.melt.checker sh) Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-meltdown-checker.sh)
+- [(micro code checker sh)Spectre & Meltdown - At Advisories, security.web.cern.ch](https://security.web.cern.ch/advisories/spectre-meltdown/spectre-cpu-microcode-checker.sh)
