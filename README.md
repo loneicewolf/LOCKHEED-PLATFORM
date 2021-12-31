@@ -18,8 +18,6 @@ designed for advanced Cyber Assessments.
 - https://github.com/loneicewolf/fanny.bmp
 - https://github.com/loneicewolf/Agent.btz
 - https://github.com/loneicewolf/Cryptography
-- https://github.com/loneicewolf/SSD_HDD_BD <-- **accidentally included this one by mistake (it is a private repo.. )** .. (I will make public)
-
 -----
 
 
@@ -31,7 +29,6 @@ designed for advanced Cyber Assessments.
 
 (Q) When will this be *updated* or similar?
 - (A) When I have a **bit** (*phun intended*) more time on my hands. Right now it's quite a lot.
-
 
 
 ---
