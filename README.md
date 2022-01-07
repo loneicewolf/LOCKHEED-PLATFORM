@@ -7,8 +7,13 @@ The LOCKHEED-PLATFORM -better known as
 LP - is a  metasploit and beef-xss -like "platform",
 designed for advanced Cyber Assessments.
 
+
 ---
 ### Projects that will be included:
+
+**IS INCLUDED:**
+- [x] https://github.com/loneicewolf/EXEC_LKM
+
 
 - https://github.com/loneicewolf/DUQU
 - https://github.com/loneicewolf/Gauss-Src
