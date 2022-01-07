@@ -11,9 +11,14 @@ designed for advanced Cyber Assessments.
 ---
 ### Projects that will be included:
 
-**IS INCLUDED:**
+
+---
+
+## **IS INCLUDED:**
 - [x] https://github.com/loneicewolf/EXEC_LKM
 
+
+---
 
 - https://github.com/loneicewolf/DUQU
 - https://github.com/loneicewolf/Gauss-Src
