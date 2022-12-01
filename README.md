@@ -2,6 +2,8 @@
 **NOTE**:   Not to be confused with the Aerospace-Defense Company [Lockheedmartin](https://en.wikipedia.org/wiki/Lockheed_Martin)
 
 
+#### Not done. I Will focus on some other projects before moving onto this project. Please consider this project as (in slow-dev)
+
 
 The LOCKHEED-PLATFORM -better known as 
 LP - is a  metasploit and beef-xss -like "platform",
