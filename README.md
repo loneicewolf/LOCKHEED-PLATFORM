@@ -4,6 +4,13 @@
 
 #### Not done. I Will focus on some other projects before moving onto this project. Please consider this project as (in slow-dev)
 
+to read it anyway, click the arrow(expansion)
+
+![image](https://user-images.githubusercontent.com/68499986/205431373-e9536d2d-94a1-4198-b2b4-4c6733e035b2.png)
+
+
+<details>
+<summary> under_construction </summary>
 
 The LOCKHEED-PLATFORM -better known as 
 LP - is a  metasploit and beef-xss -like "platform",
@@ -78,3 +85,6 @@ a rootkit that shuts down itself every time a ps/lsmod/.. command is run; and is
 
 ---
 Will, as usual of course reply to Discord, Mails, Pull and Issue requests.
+
+
+</details>
